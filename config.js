@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "SPI~XMD~jxAFnbyb#5qVR7JGJ07zPzb8EIPybF90AgUlc3XLW5B8ERIkIM2E",
+SESSION_ID: process.env.SESSION_ID || "SPI~XMD~y1hBXR4R#Hj9ypfDPLqmp2aujE0rEpIOg_BBm0fXs_3KV8wqjqTQ",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -31,19 +31,19 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/0i65sy.p
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐒𝐏𝐈𝐑𝐈𝐓𝐘-𝐗𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "𒁂⃝♥️𝐏𝐀𝐏𝐈𒁂⃝🌹𝐁𝐄𝐑𝐋𝐈𝐍🌹",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "𝐒𝐏𝐈𝐑𝐈𝐓𝐘-𝐗𝐌𝐃",
+STICKER_NAME: process.env.STICKER_NAME || "𒁂⃝♥️𝐏𝐀𝐏𝐈𒁂⃝🌹𝐁𝐄𝐑𝐋𝐈𝐍🌹",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-DELETE_LINKS: process.env.DELETE_LINKS || "false",
+DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "22603582906",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50942287434",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸",
+OWNER_NAME: process.env.OWNER_NAME || "𒁂⃝♥️𝐏𝐀𝐏𝐈𒁂⃝🌹𝐁𝐄𝐑𝐋𝐈𝐍🌹",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸*",
 // add bot owner name    
@@ -59,17 +59,17 @@ ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
-ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
+ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
